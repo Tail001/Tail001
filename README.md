@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is You-Wei Chang and I'm a student, from Taiwan 🇹🇼 </h2>
-
+<h2 align="left">Hi 👋! My name is You-Wei Chang and I'm a student, from Taiwan ! </h2>
 ###
 
 <div align="center">
@@ -42,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tail001/Tail001/output/snake.svg" alt="Snake animation" />
+<--img src="https://raw.githubusercontent.com/Tail001/Tail001/output/snake.svg" alt="Snake animation" /-->
 
 ###
