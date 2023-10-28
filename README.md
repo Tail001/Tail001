@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<--img src="https://raw.githubusercontent.com/Tail001/Tail001/output/snake.svg" alt="Snake animation" /-->
 
 ###
